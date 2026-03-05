@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaboration:
 - GitHub: [@quratulain77-saeed](https://github.com/quratulain77-saeed)
-- Email: quratulainsaeedofficial@gmail.com
+
 
 ---
 
