@@ -155,9 +155,9 @@ The repository includes a comprehensive reference document (`docs/offensive_word
 If you use this code or research in your work, please cite:
 
 ```bibtex
-@mastersthesis{ibtisam2025hate,
-  title={Hate Speech Detection in Roman Urdu Using Hybrid BERT+CNN-Gram Model with LIME Interpretability},
-  author={Ibtisam},
+@mastersthesis{saeed2025hate,
+  title={Hate Speech Detection in Text},
+  author={Saeed, Qurat ul Ain},
   year={2025},
   school={University of the Punjab},
   department={Department of Information Technology}
@@ -192,8 +192,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or collaboration:
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@quratulain77-saeed](https://github.com/quratulain77-saeed)
+- Email: quratulainsaeedofficial@gmail.com
 
 ---
 
