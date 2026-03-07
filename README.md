@@ -1,4 +1,4 @@
-# Hate Speech Detection in Roman Urdu Using Hybrid BERT+CNN-Gram Model with LIME
+# Hate Speech Detection in Text
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9-red.svg)](https://pytorch.org/)
@@ -66,8 +66,8 @@ The system combines:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/roman-urdu-hate-speech-detection.git
-cd roman-urdu-hate-speech-detection
+git clone https://github.com/your-username/hate-speech-detection-text.git
+cd hate-speech-detection-text
 
 # Create virtual environment
 python -m venv venv
@@ -193,7 +193,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaboration:
 - GitHub: [@quratulain77-saeed](https://github.com/quratulain77-saeed)
-
 
 ---
 
