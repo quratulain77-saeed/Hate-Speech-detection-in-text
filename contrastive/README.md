@@ -18,7 +18,7 @@ All methods start from `bert-base-multilingual-cased` with mean pooling (via `se
 | `contrastive` | Margin-based contrastive loss (Hadsell et al., 2006), `OnlineContrastiveLoss`, margin 0.5 | same-class / cross-class pairs |
 | `mnrl` | Supervised MultipleNegativesRankingLoss (InfoNCE-style) with an explicit cross-class **hard negative** | (anchor, same-class positive, other-class negative) |
 
-Batches use a no-duplicates sampler so the same sentence never appears twice in a batch as a false in-batch negative.
+For simcse and mnrl, batches use a no-duplicates sampler so the same sentence never appears twice in a batch as a false in-batch negative.
 
 ## Evaluation
 
